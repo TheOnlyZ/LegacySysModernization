@@ -23,11 +23,15 @@ Zoltan Laszlo, TL, FE, BE, DL, UX, CS
     c. Accessibility  
     d. Others  
   5. Overview of release plan & discussion
-  6. Round robin: Initially noted risks  
+  6. Round robin: Requirements  
     a. Tool/service requirements  
     b. New UI library components that need to be created  
     c. Capability requirements  
-  7. Next Steps
+  7. Round robin: Risks    
+    a. Architectural
+    b. Infrastructure
+    c. Capability  
+  8. Next Steps
 ### Outputs:
   1. Initial risks noted
   2. Next steps actions (to be circulated in minutes)
