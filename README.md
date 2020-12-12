@@ -1,16 +1,16 @@
 # LegacySysModernization - Sprint 0 Agenda
 
-Project Team:  
+## Project Team:  
 Product Manager: Zoltan Laszlo  
- Tech Lead: TL  
- Frontend Dev: FE   
- Backend Dev: BE  
- Design Lead: DL  
- UX Researcher: UX  
- Content Strategist: CS  
+Tech Lead: TL  
+Frontend Dev: FE   
+Backend Dev: BE  
+Design Lead: DL  
+UX Researcher: UX  
+Content Strategist: CS  
 
 
-Meeting 1 - Dev Team Kickoff:
+## Meeting 1 - Dev Team Kickoff:  
 Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
 
   1. Introduction
@@ -28,9 +28,9 @@ Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
     c. Capability requirements
   7. Next Steps
 
-Meeting 2 - Product Team Kickoff:
-Dev Team Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
-Client Team Invitees: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
+## Meeting 2 - Product Team Kickoff:  
+Dev Team Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
+Client Team Invitees: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n  
 
   1. Team introduction
   2. Client intro to team
@@ -45,7 +45,8 @@ Client Team Invitees: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeho
   6. Note further meetings with client team during Sprint 0 (as required)
   7. Next steps
     
-Sprint Planning & Product Backlog Grooming (Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature)
+## Sprint Planning & Product Backlog Grooming 
+###(Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature)  
 Activities:
   1. Review of Dev Team working agreement & Definition of Done 
   2. Identify sprint goal
@@ -58,8 +59,8 @@ Activities:
   2. Groomed product backlog
   3. Updated Working Agreement & Definition of Done
 
-Agenda for Daily Scrum (Target: 15 minutes tops)
-Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
+## Daily Scrum (Target: 15 minutes)
+Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 Activities:
   1. Call on each team member to mention:
     a. What did you do yesterday?
