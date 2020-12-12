@@ -11,7 +11,7 @@ Content Strategist: CS
 
 
 ## Meeting 1 - Dev Team Kickoff:  
-### Attendees: 
+#### Attendees: 
 Zoltan Laszlo, TL, FE, BE, DL, UX, CS
 ### Agenda:
   1. Introduction
