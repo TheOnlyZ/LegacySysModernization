@@ -27,6 +27,9 @@ Content Strategist: CS
     b. New UI library components that need to be created
     c. Capability requirements
   7. Next Steps
+### Outputs:
+  1. Initial risks noted
+  2. Next steps actions (to be circulated in minutes)
 
 ## Meeting 2 - Product Team Kickoff:  
 ### Dev Team Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
@@ -38,12 +41,15 @@ Content Strategist: CS
   3. Review of release plan
   4. Review of sprint structure (2 week sprints)
     a. Sprint planning & product backlog grooming
-    b. Daily scrum meetings
+    b. Daily scrum
     c. Sprint review
     d. Sprint retrospective
   5. Overview of risks noted during Dev Team kickoff meeting
   6. Note further meetings with client team during Sprint 0 (as required)
   7. Next steps
+  ### Outputs:
+  1. Further meetings to schedule with client team during Sprint 0
+  2. Next steps actions (to be circulated in minutes)
     
 ## Sprint Planning & Product Backlog Grooming 
 ### (Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature)  
