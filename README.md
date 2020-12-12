@@ -52,6 +52,7 @@ Content Strategist: CS
   2. Next steps actions (to be circulated in minutes)
     
 ## Sprint Planning & Product Backlog Grooming 
+### Invitees: Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS  
 ### (Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature)  
 ### Activities:
   1. Review of Dev Team working agreement & Definition of Done 
@@ -83,11 +84,12 @@ Content Strategist: CS
 ### Client Team Invitees: Product Owner, any Stakeholders (as appropriate)
 ### Activities:
   1. Review sprint goals
-  2. Demo progress made during sprint
-  3. Feedback from Client Team
-  4. Stories to be added to backlog based on Product Owner input
-  5. Any changes to the release plan
-  5. Discuss and agree sprint goal for next sprint
+  2. Review of sprint velocity/burndown metrics
+  3. Demo progress made during sprint
+  4. Feedback from Client Team
+  5. Stories to be added to backlog based on Product Owner input
+  6. Any changes to the release plan
+  7. Discuss and agree sprint goal for next sprint
 ### Outputs:
   1. Feedback of deliveried increment
   2. Stories for backlog
