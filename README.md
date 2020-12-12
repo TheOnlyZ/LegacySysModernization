@@ -28,8 +28,8 @@ Zoltan Laszlo, TL, FE, BE, DL, UX, CS
     b. New UI library components that need to be created  
     c. Capability requirements  
   7. Round robin: Risks    
-    a. Architectural
-    b. Infrastructure
+    a. Architectural  
+    b. Infrastructure  
     c. Capability  
   8. Next Steps
 ### Outputs:
