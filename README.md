@@ -37,7 +37,7 @@ Zoltan Laszlo, TL, FE, BE, DL, UX, CS
   2. Next steps actions (to be circulated in minutes)
 
 ## Meeting 2 - Product Team Kickoff:  
-### Attendees:
+#### Attendees:
 Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n  
 ### Agenda:
@@ -59,7 +59,7 @@ Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
     
 ## Sprint Planning & Product Backlog Grooming 
 Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature
-### Attendees: 
+#### Attendees: 
 Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS  
 ### Activities:
   1. Review of Dev Team working agreement & Definition of Done 
@@ -75,7 +75,7 @@ Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS
 
 ## Daily Scrum 
 Target: 15 minutes
-### Attendees:
+#### Attendees:
 Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 ### Activities:
   1. Call on each team member to mention:  
@@ -90,7 +90,7 @@ Zoltan Laszlo, TL, FE, BE, DL, UX, CS
 
 ## Sprint Review & Demo
 Target: 1-2 hours, on final day of sprint)
-### Attendees:
+#### Attendees:
 Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 Client Team: Product Owner, any Stakeholders (as appropriate)
 ### Activities:
@@ -109,7 +109,7 @@ Client Team: Product Owner, any Stakeholders (as appropriate)
   
 ## Sprint Retrospective 
 Target: 1 hour, on final day of sprint
-### Attendees: 
+#### Attendees: 
 Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS
 ### Activities:
   1. Review of any actions pending from previous sprint retrospectives.
