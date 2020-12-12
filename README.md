@@ -91,7 +91,7 @@ Zoltan Laszlo, TL, FE, BE, DL, UX, CS
 ## Sprint Review & Demo
 Target: 1-2 hours, on final day of sprint)
 ### Attendees:
-Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
+Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 Client Team: Product Owner, any Stakeholders (as appropriate)
 ### Activities:
   1. Review sprint goals
