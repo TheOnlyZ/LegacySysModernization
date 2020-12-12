@@ -17,16 +17,16 @@ Zoltan Laszlo, TL, FE, BE, DL, UX, CS
   1. Introduction
   2. Recap of product vision and roadmap
   3. Review of sprint structure 
-  4. Review of highlights from discovery meetings
-    a. Performance
-    b. Security
-    c. Accessibility
-    d. Others
+  4. Review of highlights from discovery meetings  
+    a. Performance  
+    b. Security  
+    c. Accessibility  
+    d. Others  
   5. Overview of release plan & discussion
-  6. Round robin: Initially noted risks
-    a. Tool/service requirements
-    b. New UI library components that need to be created
-    c. Capability requirements
+  6. Round robin: Initially noted risks  
+    a. Tool/service requirements  
+    b. New UI library components that need to be created  
+    c. Capability requirements  
   7. Next Steps
 ### Outputs:
   1. Initial risks noted
@@ -41,11 +41,11 @@ Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
   2. Client intro to team
   2. Review of product vision and roadmap
   3. Review of release plan
-  4. Review of sprint structure (2 week sprints)
-    a. Sprint planning & product backlog grooming
-    b. Daily scrum
-    c. Sprint review
-    d. Sprint retrospective
+  4. Review of sprint structure (2 week sprints)  
+    a. Sprint planning & product backlog grooming  
+    b. Daily scrum  
+    c. Sprint review  
+    d. Sprint retrospective  
   5. Overview of risks noted during Dev Team kickoff meeting
   6. Note further meetings with client team during Sprint 0 (as required)
   7. Next steps
@@ -74,11 +74,11 @@ Target: 15 minutes
 ### Attendees:
 Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 ### Activities:
-  1. Call on each team member to mention:
-    a. What did you do yesterday?
-    b. What are your goals for today?
-    c. Is there anything preventing you from getting your work done?
-    d. (During week 2 of sprint) How comfortable are you with achieving the sprint goals?
+  1. Call on each team member to mention:  
+    a. What did you do yesterday?  
+    b. What are your goals for today?  
+    c. Is there anything preventing you from getting your work done?  
+    d. (During week 2 of sprint) How comfortable are you with achieving the sprint goals?  
 ### Outputs:
   1. Breakout session to be held to discuss matters/blockers more deeply
   2. Issues/risks to note on project board
