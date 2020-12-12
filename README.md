@@ -11,7 +11,8 @@ Content Strategist: CS
 
 
 ## Meeting 1 - Dev Team Kickoff:  
-### Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
+### Attendees: 
+Zoltan Laszlo, TL, FE, BE, DL, UX, CS
 ### Agenda:
   1. Introduction
   2. Recap of product vision and roadmap
@@ -32,7 +33,7 @@ Content Strategist: CS
   2. Next steps actions (to be circulated in minutes)
 
 ## Meeting 2 - Product Team Kickoff:  
-### Invitees
+### Attendees:
 Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n  
 ### Agenda:
@@ -53,8 +54,9 @@ Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
   2. Next steps actions (to be circulated in minutes)
     
 ## Sprint Planning & Product Backlog Grooming 
-### Invitees: Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS  
-### (Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature)  
+Target: Two-three 90 minute blocks for Sprint 1, Reduce to 45 minutes as dev team and product development mature
+### Attendees: 
+Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS  
 ### Activities:
   1. Review of Dev Team working agreement & Definition of Done 
   2. Identify sprint goal
@@ -67,8 +69,10 @@ Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
   2. Groomed product backlog
   3. Updated Working Agreement & Definition of Done
 
-## Daily Scrum (Target: 15 minutes)
-### Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
+## Daily Scrum 
+Target: 15 minutes
+### Attendees:
+Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
 ### Activities:
   1. Call on each team member to mention:
     a. What did you do yesterday?
@@ -80,9 +84,11 @@ Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
   2. Issues/risks to note on project board
   3. Issues for Product Manager to follow up on
 
-## Sprint Review & Demo (Target: 1-2 hours, on final day of sprint)
-### Dev Team Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
-### Client Team Invitees: Product Owner, any Stakeholders (as appropriate)
+## Sprint Review & Demo
+Target: 1-2 hours, on final day of sprint)
+### Attendees:
+Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
+Client Team: Product Owner, any Stakeholders (as appropriate)
 ### Activities:
   1. Review sprint goals
   2. Review of sprint velocity/burndown metrics
@@ -97,8 +103,10 @@ Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n
   3. Updated release plan (if applicable)
   4. Sprint goal for next sprint
   
-## Sprint Retrospective (Target: 1 hour, on final day of sprint)
-### Invitees: Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS
+## Sprint Retrospective 
+Target: 1 hour, on final day of sprint
+### Attendees: 
+Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS
 ### Activities:
   1. Review of any actions pending from previous sprint retrospectives.
   2. Solicit input from team on things that went well during this completed sprint
