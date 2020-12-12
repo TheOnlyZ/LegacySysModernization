@@ -32,8 +32,9 @@ Content Strategist: CS
   2. Next steps actions (to be circulated in minutes)
 
 ## Meeting 2 - Product Team Kickoff:  
-### Dev Team Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
-### Client Team Invitees: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n  
+### Invitees
+Dev Team: Zoltan Laszlo, TL, FE, BE, DL, UX, CS  
+Client Team: Product Owner, Stakeholder 1, Stakeholder 2, ... , Stakeholder n  
 ### Agenda:
   1. Team introduction
   2. Client intro to team
