@@ -1,7 +1,7 @@
 # LegacySysModernization - Sprint 0 Agenda
 
 Project Team:
- Product Manager: Zoltan Laszlo
+Product Manager: Zoltan Laszlo
  Tech Lead: TL
  Frontend Dev: FE 
  Backend Dev: BE
