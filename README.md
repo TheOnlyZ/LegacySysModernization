@@ -1,6 +1,6 @@
 # LegacySysModernization - Sprint 0 Agenda
 
-## Project Team:  
+## Project Development Team:  
 Product Manager: Zoltan Laszlo  
 Tech Lead: TL  
 Frontend Dev: FE   
@@ -97,7 +97,7 @@ Content Strategist: CS
   4. Sprint goal for next sprint
   
 ## Sprint Retrospective (Target: 1 hour, on final day of sprint)
-### Dev Team Invitees: Zoltan Laszlo, TL, FE, BE, DL, UX, CS
+### Invitees: Zoltan Laszlo, Product Owner, TL, FE, BE, DL, UX, CS
 ### Activities:
   1. Review of any actions pending from previous sprint retrospectives.
   2. Solicit input from team on things that went well during this completed sprint
