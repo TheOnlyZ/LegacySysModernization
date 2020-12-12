@@ -1,13 +1,13 @@
 # LegacySysModernization - Sprint 0 Agenda
 
-Project Team:
-Product Manager: Zoltan Laszlo
- Tech Lead: TL
- Frontend Dev: FE 
- Backend Dev: BE
- Design Lead: DL
- UX Researcher: UX
- Content Strategist: CS 
+Project Team:  
+Product Manager: Zoltan Laszlo  
+ Tech Lead: TL  
+ Frontend Dev: FE   
+ Backend Dev: BE  
+ Design Lead: DL  
+ UX Researcher: UX  
+ Content Strategist: CS  
 
 
 Meeting 1 - Dev Team Kickoff:
